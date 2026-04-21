@@ -1,8 +1,0 @@
-psutil
-pypresence
-time
-sys
-discord
-asyncio
-colorama
-platforms
